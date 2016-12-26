@@ -5,7 +5,7 @@ just trolling around
 <html>
   <head>
     <title>JUST TROLLING AROUND</title> 
-    <style>
+    <style type="text/css">
       body{color:yellow;
         text-align:center;
         text-shadow: 2px 2px red;}
@@ -20,4 +20,3 @@ just trolling around
     <h6> !!!!!!</h6>
   </body>
 </html>
-Contact GitHub API Training Shop Blog About
